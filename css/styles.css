@@ -1,3 +1,7 @@
+.navbar {
+        height: 120px;
+}
+
 h1, h4 {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
@@ -18,3 +22,11 @@ h3 {
     margin-top: 5px;
 }
     
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #301beb!important;
+}
+    
+/*img {
+    border-radius: 10%;
+}*/
