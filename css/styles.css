@@ -1,12 +1,17 @@
-h1 {
+h1, h4 {
     text-align: center;
     padding-top: 15px;
-}
-
-.address {
-    align-items: ;
+    padding-bottom: 15px;
 }
 
 body {
- 
+    background-color: aliceblue;
+}
+
+h3 {
+    padding-top: 15px;
+}
+
+.container {
+    margin-top: 5px;
 }
