@@ -19,7 +19,8 @@
     
     e) All images must have **alt text**. Additionally, give the car images a curved border of 10%
     
-    f) Section **‘Enquiries’** - An enquiry form with fields ‘Full Name’ (text box), ‘Email address’ (email box), ‘Choose a Car’ (select box) and ‘Comments’ (textarea).                Change the form background colour to light grey
+    f) Section **‘Enquiries’** - An enquiry form with fields ‘Full Name’ (text box), ‘Email address’ (email box), ‘Choose a Car’ (select box) and ‘Comments’ (textarea).               
+    - Change the form background colour to light grey
     
     g) Section **‘Contact’** - Displays the car agency’s full name, address, phone number and email address and an embedded google map showing the location.
     
