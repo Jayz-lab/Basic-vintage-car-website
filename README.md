@@ -21,4 +21,4 @@
 5) Push the changes to GitHub and view your output on Github pages 
 6) Sample screenshot below 
 
-<img src="./images/Picture1.PNG" height = "500"/>
+![](images/Picture1.PNG)
