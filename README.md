@@ -31,7 +31,7 @@
     
 ##### 4) Push the changes to GitHub and view your output on Github pages
 ##### 5) See sample screenshot below.
+<img src="https://github.com/JWD005/WebAssessment_JJ/blob/main/images/Picture1.png" height="500px">
 
-![](images/Picture1.PNG)
-
-<img src="https://github.com/JWD005/WebAssessment_JJ/blob/main/images/Picture1.png">
+#### Completed work: https://jwd005.github.io/WebAssessment_JJ/
+<!--![](images/Picture1.PNG)-->
