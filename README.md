@@ -33,5 +33,5 @@
 ##### 5) See sample screenshot below.
 <img src="https://github.com/JWD005/WebAssessment_JJ/blob/main/images/Picture1.png" height="500px">
 
-#### Completed work: https://jwd005.github.io/WebAssessment_JJ/
+#### Completed work: https://jayz-lab.github.io/WebAssessment_JJ/
 <!--![](images/Picture1.PNG)-->
