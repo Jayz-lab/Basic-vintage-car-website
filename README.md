@@ -2,6 +2,7 @@
 
 ## Web Assessment (Individual) - Vintage Car Hire - JWD05
 
+## Requirements:
 ### Create a one-page _responsive_ website using **HTML, CSS and Bootstrap** for a car agency listing vintage cars for hire.
 ### Time: 6hrs
 
@@ -33,5 +34,5 @@
 ##### 5) See sample screenshot below.
 <img src="https://github.com/JWD005/WebAssessment_JJ/blob/main/images/Picture1.png" height="500px">
 
-#### Completed work: https://jayz-lab.github.io/WebAssessment_JJ/
+
 <!--![](images/Picture1.PNG)-->
